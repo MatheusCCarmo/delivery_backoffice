@@ -1,0 +1,14 @@
+{
+    "dart.flutterHotReloadOnSave": "never",
+    "editor.wordWrapColumn": 100,
+    "dart.lineLength": 100,
+    "[dart]": {
+        "editor.rulers": [
+            100
+        ]
+    },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll": true,
+    }
+}
